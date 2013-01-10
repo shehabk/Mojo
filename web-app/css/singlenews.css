@@ -1,0 +1,124 @@
+/* CSS Document */
+#detailnewspage 
+	{
+	width: 100%;
+	background:#3399CC;
+	height:auto;
+        background-color: whitesmoke ;
+	}
+	
+#topsection
+	{
+		padding:10px;
+        border-style:solid;
+        border-color:#DEE6DD;
+        border-width:4px;
+		height:300px;
+	}
+
+#picture 
+	{
+	background:#330099;
+	width: 50%;
+	height:300px; 
+	float: left
+	}	
+
+#right
+	{
+    font-size: 30px;
+	background:#996666;
+	width:50%;
+	height:300px; 
+	float: right
+}
+
+#annotation
+{
+background: whitesmoke;
+height:    150px;
+font-size: 36px;
+font-family:"Times New Roman", Times, serif;
+background-color: white;
+}
+
+#userinfo
+{
+background:#FFCC33;
+height:150px;
+font-size:12px;
+font-family:"Times New Roman", Times, serif;
+}
+	
+
+#commentbutton
+{
+    background: url('../images/grails.logo.jpg') ;
+    background-repeat: no-repeat ;
+    background-position: center ;
+    
+}
+
+.commentlikha{
+    
+background: whitesmoke;
+height:     40px;
+font-size:  36px;
+font-family:"Times New Roman", Times, serif;
+background-color: white;
+    
+    
+}
+
+#middlesection
+{
+background:#3300CC;
+background-color: #cccccc ;
+border-width: 2px ;
+padding-top: 4px ;
+}
+
+
+
+
+#bottomsection
+{
+background:#FF6666;
+}
+
+#comment
+{
+
+background:whitesmoke;
+border: #006699;
+border-width: 2px ;
+border-style: solid ;
+padding-top: 7px ;
+border-color: #ccccff ;
+}
+#timedate
+{
+background:#999933;
+height:30px;
+font-size:12px;
+}
+#commentinguserinfo
+{
+background:#339900;
+height:40px;
+}
+   
+#giveComment
+{
+    background: whitesmoke ;
+    border-width: 1px ;
+    border-style: solid ;
+    border-color: #000000;
+    padding-top: 10px ;
+    
+}
+
+#buttondiv{
+    background-color:  whitesmoke ;
+    
+}
