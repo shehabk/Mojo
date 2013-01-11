@@ -18,7 +18,8 @@ import java.util.logging.Logger;
 public class Cservice {
     
     static void writeinfo( Content cn){
-         
+        // check
+
         try {
             File fl = new File("write.txt");
             BufferedWriter output = new BufferedWriter(new FileWriter(fl));
