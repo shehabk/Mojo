@@ -16,7 +16,7 @@
 <g:javascript src="jquery.js" />
 <g:javascript src="application.js" />
 <script type="text/JavaScript">
-  var BASE_URL = "http://192.168.0.101:8080/Mojo/"
+  var BASE_URL = "http://localhost:8080/Mojo/"
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
