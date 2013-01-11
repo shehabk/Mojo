@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mojo.iml" filepath="$PROJECT_DIR$/Mojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mojo-grailsPlugins.iml" filepath="$PROJECT_DIR$/Mojo-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
